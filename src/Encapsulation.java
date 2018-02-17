@@ -44,7 +44,7 @@ public class Encapsulation {
         
         System.out.println(encap.GetName());
         System.out.println(encap.GetIdNum());
-        System.out.println(encap.GetAge());
+        System.out.println(encap.GetAge()) ;
         
         
     }
